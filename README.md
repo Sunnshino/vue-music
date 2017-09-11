@@ -1,6 +1,6 @@
 # vue-music
 
-> 云�音乐播放器
+> 云音乐播放器
 
 ## Build Setup
 
