@@ -17,7 +17,7 @@ http://naotu.baidu.com/file/67657df95f81a219cb758be6219f2890?token=31b963a4697f6
 # 1.首先安装依赖
 npm install
 
-# 2.运行后,端口将在 http://localhost:8080端口打开(注意有开启8080服务的请关闭!)
+# 2.运行后,端口将在 本地80端口 http://localhost:8080 端口打开(注意有开启8080服务的请关闭!)
 npm run dev
 
 # 3.项目进行构建
